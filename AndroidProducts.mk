@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cherish_violet.mk
+    $(LOCAL_DIR)/lineage_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    cherish_violet-user \
-    cherish_violet-userdebug \
-    cherish_violet-eng
+    lineage_violet-user \
+    lineage_violet-userdebug \
+    lineage_violet-eng
