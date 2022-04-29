@@ -115,7 +115,7 @@ PRODUCT_PACKAGES += \
     libdng_sdk.vendor
 
 PRODUCT_PACKAGES += \
-    GrapheneCamera
+    GoogleCameraGo
 
 PRODUCT_PACKAGES += \
     Snap
