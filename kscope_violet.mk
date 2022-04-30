@@ -28,7 +28,7 @@ $(call inherit-product, vendor/kscope/config/mobile.mk)
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Flags
-TARGET_SUPPORTS_QUICK_TAP := true
+# TARGET_SUPPORTS_QUICK_TAP := true
 
 PRODUCT_NAME := kscope_violet
 PRODUCT_DEVICE := violet
