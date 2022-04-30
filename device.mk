@@ -34,10 +34,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     fs_config_files
 
-# Call recording
-PRODUCT_PACKAGES += \
-    com.google.android.apps.dialer.call_recording_audio.features.xml
-
 # ANT+
 PRODUCT_PACKAGES += \
     AntHalService-Soong \
