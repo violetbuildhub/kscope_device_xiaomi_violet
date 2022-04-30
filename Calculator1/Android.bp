@@ -1,0 +1,10 @@
+android_app_import {
+    apk: "Calculator/Calculator.apk",
+    name: "Calculator1",
+    overrides: [
+        "ExactCalculator",
+        "Calculator",
+    ],
+    presigned: true,
+    product_specific: true,
+}

@@ -1,0 +1,12 @@
+android_app_import {
+    apk: "Photos/Photos.apk",
+    name: "Photos",
+    overrides: [
+        "Gallery2",
+        "Gallery",
+        "Gallery3D",
+        "GalleryNew3D",
+    ],
+    presigned: true,
+    product_specific: true,
+}

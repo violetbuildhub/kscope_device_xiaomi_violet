@@ -26,6 +26,13 @@ $(call inherit-product, vendor/xiaomi/violet/violet-vendor.mk)
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt
 
+# APPS
+PRODUCT_PACKAGES += \
+     Calculator1 \
+     Calendar1 \
+     Message1 \
+     Photos
+
 # AID/fs configs
 PRODUCT_PACKAGES += \
     fs_config_files

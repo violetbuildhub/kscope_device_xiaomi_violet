@@ -1,0 +1,10 @@
+android_app_import {
+    apk: "Message/Message.apk",
+    name: "Message1",
+    overrides: [
+        "messaging",
+        "Messaging",
+    ],
+    presigned: true,
+    product_specific: true,
+}

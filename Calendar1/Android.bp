@@ -1,0 +1,9 @@
+android_app_import {
+    apk: "Calendar/Calendar.apk",
+    name: "Calendar1",
+    overrides: [
+        "Calendar",
+    ],
+    presigned: true,
+    product_specific: true,
+}
