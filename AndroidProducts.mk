@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/kscope_violet.mk
+    $(LOCAL_DIR)/lineage_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    kscope_violet-user \
-    kscope_violet-userdebug \
-    kscope_violet-eng
+    lineage_violet-user \
+    lineage_violet-userdebug \
+    lineage_violet-eng
